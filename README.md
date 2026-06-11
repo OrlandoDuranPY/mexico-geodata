@@ -1,4 +1,4 @@
-# Datos demográficos de México
+# Datos Geodemográficos de México
 
 Colección de scripts para descargar y procesar datos geodemográficos de México desde fuentes oficiales, generando archivos JSON listos para usar en aplicaciones.
 
